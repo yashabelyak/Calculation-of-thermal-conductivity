@@ -1,0 +1,8 @@
+E:\Visual Studio 2019\Projects\C++\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculation of thermal conductivity.vcxproj.AssemblyReference.cache
+E:\Visual Studio 2019\Projects\C++\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculationofthermalconductivity.MyForm.resources
+E:\Visual Studio 2019\Projects\C++\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculation of thermal conductivity.vcxproj.GenerateResource.cache
+E:\Visual Studio 2019\Projects\C++\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculation of thermal conductivity.vcxproj.CopyComplete
+C:\Users\user\Documents\лекции осень 2021\курсач\прога\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculation of thermal conductivity.vcxprojAssemblyReference.cache
+C:\Users\user\Documents\лекции осень 2021\курсач\прога\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculationofthermalconductivity.MyForm.resources
+C:\Users\user\Documents\лекции осень 2021\курсач\прога\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculation of thermal conductivity.vcxproj.GenerateResource.cache
+C:\Users\user\Documents\лекции осень 2021\курсач\прога\(298)Calculation of thermal conductivity\Calculation of thermal conductivity\Debug\Calculation of thermal conductivity.vcxproj.CopyComplete
